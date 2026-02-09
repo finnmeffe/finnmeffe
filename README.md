@@ -14,4 +14,6 @@ I explore the relationship between the political arrangments within U.S. metropo
 
 This term paper examines the role of urbanization in fostering democratic movements. I make use of the V-Dem dataset to capture democratic indices, and UN World Urbanization Prospects data for panel data on urbanization. I adopt various econometric strategies to solve persistent endogeneity/reverse causality issues: lagged regression, instrumental variables, and event study. 
 
+#### Data Science Portfolio - Intro to Data Science
 
+This repository contains assignments for MDSC 20009 Introduction to Data Science. Most recently, I created an interactive web app using the streamlit package for exploratory data analysis on the Palmer's Penguins dataset.
