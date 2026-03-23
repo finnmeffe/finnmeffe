@@ -16,4 +16,4 @@ This term paper examines the role of urbanization in fostering democratic moveme
 
 #### [Data Science Portfolio](https://github.com/finnmeffe/Meffe-Data-Science-Portfolio) - Intro to Data Science
 
-This repository contains assignments for MDSC 20009 Introduction to Data Science. Most recently, I created an interactive web app using the streamlit package for exploratory data analysis on the Palmer's Penguins dataset.
+This repository contains assignments for MDSC 20009 Introduction to Data Science. Most recently, I created an interactive web app using the streamlit package for exploratory data analysis on the Palmer's Penguins dataset, as well as a data cleaning project using the tidy data principles on federal R&D budgets.
